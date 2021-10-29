@@ -16,10 +16,11 @@ This repository is a compilation of the R codes and the final submission of my f
 ## Project Description
 The  data used for this project can be obtained from [white wine](https://github.com/fahimahghazali/Basic-statistics-and-correlations/blob/main/white_wine.csv)
 
-The final report can be read [here](https://github.com/fahimahghazali/Basic-statistics-and-correlations/blob/main/MATH20811_CW1.pdf).
+The final report is writen using LateX and can be read [here](https://github.com/fahimahghazali/Basic-statistics-and-correlations/blob/main/MATH20811_CW1.pdf).
 
 ## Needs of this project
 
+- descriptive statistics
 - statistical modeling
 - writeup
 
